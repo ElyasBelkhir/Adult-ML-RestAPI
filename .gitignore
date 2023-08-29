@@ -1,0 +1,10 @@
+# .gitignore
+
+# Exclude the virtual environment directory
+myenv/
+venv/
+env/
+
+# Exclude Python bytecode directories
+__pycache__/
+*.py[cod]
