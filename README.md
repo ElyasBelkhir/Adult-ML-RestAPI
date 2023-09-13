@@ -1,7 +1,5 @@
 REST API that uses Machine Learning to POST predictions based on JSON input of adult categories like age, education, sex, etc.
 
-NOTE: JSON REST API does not reflect model data fully as not enough testing done and inaccuracies when transferring, so use for education.
-
 Machine learning model trained on Adult dataset that classifies whether an
 adult made <=50k or >50k
 
